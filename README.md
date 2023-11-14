@@ -12,4 +12,5 @@
 ## How to use
 1. Can only be used through XAMPP with Apache and SQL. <br>
 2. Files must be placed in Windows/xampp/htdocs folder. <br>
-3. Then type into any web browser  localhost/foldername.
+3. Then type into any web browser  localhost/foldername. <br>
+4. I used phpmyadmin for the database, import customers.sql to the database
